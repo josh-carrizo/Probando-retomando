@@ -1,4 +1,3 @@
-# repaso_vue
 
 ## Project setup
 ```
